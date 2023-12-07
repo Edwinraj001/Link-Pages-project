@@ -1,0 +1,70 @@
+.a{
+    background-color: azure;
+    padding-top: 20px;
+}
+.a h4{
+    margin-top: -40px;
+    padding: 20px;
+}
+.b{
+    list-style: none;
+}
+.b a{
+    
+    padding: 30px;
+    margin-right:  -20px;
+ 
+}
+.b li{
+    display: inline;
+}
+.b{
+    background-color: aqua;
+    padding: 30px;
+}
+.b b{
+    padding-right: 480px;
+    color:rgb(6, 49, 49);
+}
+.c hr{
+    width: 850px;
+    margin-left: -300px;
+}
+.d{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    float: right;
+    margin-right: 400px;
+    margin-top: -70px;
+}
+.e{
+    text-align: center;
+}
+.f{
+    width: 850px;
+    margin-right: -80px;
+}
+.g{
+    text-align: right;
+}
+.h{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    float: left;
+    margin-left: 70px;
+    margin-top: -130px;  
+}
+.i hr{
+    width: 850px;
+    margin-left: -300px;
+}
+.j{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    float: right;
+    margin-right: 500px;
+    margin-top: -120px;
+}

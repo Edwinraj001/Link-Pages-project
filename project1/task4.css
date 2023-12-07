@@ -1,0 +1,53 @@
+.a{
+    background-color: rgb(229, 238, 235);
+    padding: 20px;
+}
+.a center{
+    margin-top: -15px;
+}
+.b{
+    list-style: none;
+}
+.b a{
+    
+    padding: 30px;
+    margin-right:  -20px;
+ 
+}
+.b button{
+    margin-left: 50px;
+}
+.b li{
+    display: inline;
+}
+.b{
+    background-color: aqua;
+    padding: 30px;
+}
+.b b{
+    padding-right: 480px;
+    color:rgb(6, 49, 49);
+}
+.c{
+    background-color: rgb(230, 230, 82);
+    padding: 50px;
+}
+.e{
+    border: 5px solid rgb(36, 34, 34);
+    background-color: rgb(2, 180, 180);
+    width: 250px;
+    text-align: center;
+    margin-left: 900px;
+    margin-top: -340px;
+}
+.c hr{
+    margin-right: 590px;
+}
+.d button{
+    background-color:aqua;
+    margin-top: -40px;
+    margin-left: 50px;
+}
+.e button{
+    background-color: aqua;
+}

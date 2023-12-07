@@ -1,0 +1,48 @@
+.a{
+    background-color: azure;
+    padding: 20px;
+}
+.a center{
+    margin-top: -20px;
+}
+.b{
+    list-style: none;
+}
+.b a{
+    
+    padding: 30px;
+    margin-right:  -20px;
+ 
+}
+.b li{
+    display: inline;
+}
+.b{
+    background-color: aqua;
+    padding: 30px;
+}
+.b b{
+    padding-right: 480px;
+    color:rgb(6, 49, 49);
+}
+.c {
+    background-color: aquamarine;
+    
+}
+.c a{
+    padding: 130px;
+    color: red;
+}
+.c h1{
+    text-align: center;
+}
+.c h3{
+    text-align: center;
+}
+.c b{
+    padding: 100px;
+}
+.d h3{
+    text-align: left;
+    padding-left: 40px;
+}

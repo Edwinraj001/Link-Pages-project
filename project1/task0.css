@@ -1,0 +1,46 @@
+.a{
+    background-color: azure;
+    padding-top: 20px;
+}
+.a h4{
+    margin-top: -40px;
+    padding: 20px;
+}
+.b{
+    list-style: none;
+}
+.b a{
+    
+    padding: 30px;
+    margin-right:  -20px;
+ 
+}
+.b li{
+    display: inline;
+}
+.b{
+    background-color: aqua;
+    padding: 30px;
+}
+.b b{
+    padding-right: 480px;
+    color:rgb(6, 49, 49);
+}
+.image img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+.main{
+    display: grid;
+    grid-template-columns: 40% 60%;
+    background-color:chartreuse;
+}
+.main button{
+     background-color: rgb(59, 161, 93);
+}
+.image{
+    padding-left: 80px;
+    padding-top: 90px;
+}
+
